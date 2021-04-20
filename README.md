@@ -1,1 +1,1 @@
-# https-github.com-KaiTan2-Deep-Latent-Space-Learning-for-gene-function-prediction-from-multiple-net
+Deep Latent Space Learning for gene function prediction from multiple networks
